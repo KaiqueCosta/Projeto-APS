@@ -1,0 +1,11 @@
+.bd-placeholder-img {
+  background-color: black;
+}
+
+.bd-placeholder-img2{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+  background-image: url('Celular.png');
+}
