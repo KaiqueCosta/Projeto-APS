@@ -1,11 +1,23 @@
-.bd-placeholder-img {
-  background-color: black;
-}
-
-.bd-placeholder-img2{
+.imagemCelular {
   width: 500px;
   height: 500px;
   object-fit: cover;
   object-position: center;
   background-image: url('Celular.png');
+}
+
+.imagemNegocios{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+  background-image: url('cumprimeto-entre-comprador-e-profissional-de-tecnc.jpeg');
+}
+.imagemService{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+  background-repeat: no-repeat ;
+  background-image: url('produtos-serviços.png');
 }
