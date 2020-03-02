@@ -1,10 +1,11 @@
+
 .imagemCelular {
   width: 500px;
   height: 500px;
   object-fit: cover;
   object-position: center;
   margin-bottom: -1em;
-  background-image: url('Celular.png');
+  background-image: url('imagens/Celular.png');
 }
 
 .imagemNegocios{
@@ -13,7 +14,7 @@
   object-fit: cover;
   object-position: center;
   margin-bottom: -1em;
-  background-image: url('cumprimeto-entre-comprador-e-profissional-de-tecnc.jpeg');
+  background-image: url('imagens/cumprimeto-entre-comprador-e-profissional-de-tecnc.jpeg');
 }
 .imagemService{
   width: 500px;
@@ -21,7 +22,7 @@
   object-fit: cover;
   object-position: center;
   background-repeat: no-repeat ;
-  background-image: url('produtos-serviços.png');
+  background-image: url('imagens/produtos-serviços.png');
 }
 
 .img1{
@@ -38,7 +39,7 @@
   height: 100%;
   object-fit: cover;
   object-position: center;
-  background-image: url('5a6f5c1faa14d.jpg');
+  background-image: url('');
 }
 
 .img3{
