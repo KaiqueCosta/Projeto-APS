@@ -31,6 +31,7 @@
   height: 100%;
   object-fit: cover;
   object-position: center;
+  background-image: url('imagens/photo-3.jpg');
 }
 
 .img2{
@@ -39,7 +40,7 @@
   height: 100%;
   object-fit: cover;
   object-position: center;
-  background-image: url('');
+  background-image: url('imagens/photo-1.jpg');
 }
 
 .img3{
@@ -48,5 +49,6 @@
   height: 100%;
   object-fit: cover;
   object-position: center;
+  background-image: url('imagens/photo-2.jpg');
 }
 
