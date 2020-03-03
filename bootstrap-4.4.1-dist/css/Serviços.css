@@ -4,3 +4,11 @@
     background-color: lightblue;
     border-radius: .3rem;
 }
+
+.tb1{
+    width: 348px;
+  height: 225px;
+  object-fit: cover;
+  object-position: center;
+    background-image: url('/bootstrap-4.4.1-dist/css/imagens/assistenciaTecnica.jpg');
+}
